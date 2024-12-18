@@ -26,8 +26,3 @@ This repository contains the implementation of an AI-based system designed to de
 - Annotated video can be downloaded post-processing.
 
 ---
-
-## Dependencies
-Install the following libraries using `pip`:
-```bash
-pip install streamlit opencv-python mediapipe ultralytics torch gdown numpy
