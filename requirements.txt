@@ -1,0 +1,7 @@
+streamlit==1.41.1
+opencv-python==4.10.0.84
+mediapipe==0.10.20
+torch==2.5.1
+ultralytics==8.3.51
+numpy==2.2.0
+gdown==5.2.0
